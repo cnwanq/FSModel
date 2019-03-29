@@ -1,0 +1,6 @@
+framework module FSModel {
+  umbrella header "FSModel-umbrella.h"
+
+  export *
+  module * { export * }
+}

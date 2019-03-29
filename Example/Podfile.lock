@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.6)
+  - FSModel (0.1.0)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - Expecta
+  - FSModel (from `../`)
+  - Specta
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  FSModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  FSModel: f10f5b4ecb35f150ec5703290d971283f5d3ac3f
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: eab03e275fa4b3f1c92e809d7c55442a033a6d70
+
+COCOAPODS: 1.6.1
